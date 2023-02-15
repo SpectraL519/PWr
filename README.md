@@ -10,10 +10,20 @@ This repository contains all programs (or links to other repositories) which hav
 <br />
 <br />
 
-Subjects and their corresponding catalogs / repositories:
+**Subjects and their corresponding catalogs / repositories:**
 
 * Semester 1
   * Mathematical Analysis I
   * Algebra with Analytic Geometry
   * Mathematical Logic and Formal Structures
-  * Introduction to Computer Science and Programming: S1_WIP
+  * Introduction to Computer Science and Programming: `S1_WIP`
+
+<br />
+
+* Semester 2
+  * Mathematical Analysis II
+  * Abstract Algebra and Coding
+  * Descrete Mathematics: `S2_MD`
+  * Programming Course: `S2_KP`
+  * Physics
+  * Legal Problems of Computer Science
