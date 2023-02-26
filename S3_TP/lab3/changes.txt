@@ -1,0 +1,75 @@
+1. Adapter
+Created:
+	* ThirdPartyDoorAdapter.java
+	* ThirdPartyDoorObjectAdapter.java
+
+2. Builder
+Created:
+	* ReportBuilder
+	* HTMLReportBuilder
+	* JSONReportBuilder
+	* XMLReportBuilder
+Modified:
+	* ReportAssembler
+	* ReportAssemblerTest
+	* Other: package / import changes
+
+3. Singleton
+Modified:
+	* ReportBuilder
+
+4. Factory Method
+Created:
+	* HTMLReportGenerator
+	* XMLReportGenerator
+	* PDFReportGenerator
+	* JSONReportGenerator
+Modified:
+	* ReportGenerator
+	* ReportGeneratorTest
+
+5. Abstract Factory
+Created:
+	* AbstractReport
+	* XMLReport
+	* JSONReport
+Modified:
+	* Report
+	* ReportTest
+
+6. Composite
+Modified:
+	* Shape
+	* CompositeShape
+
+7. State
+Modified:
+	* ApplianceState
+	* Toaster
+	* OffState, OnState, StartedState
+
+8. Decorator
+Created:
+	* WordCensorTest
+	* WordCensor
+	* ChainCensorDecoratorTest
+
+9. Facade
+Created:
+	* DefaultBookStoreFacade
+Modified:
+	* BookStoreFacadeTest
+
+10.1. Bridge
+Created:
+	* ExtendedProtocolSelectorTest
+	* ExtendedProtocolSelector
+	* BluetoothProtocol
+	* BluetoothProtocolTest
+
+10.2. Prototype
+Created:
+	* VehicleCloneTest
+Modified:
+	* Vehicle
+
