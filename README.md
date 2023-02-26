@@ -27,3 +27,11 @@ This repository contains all programs (or links to other repositories) which hav
   * Programming Course: `S2_KP`
   * Physics
   * Legal Problems of Computer Science
+
+<br />
+
+* Semester 3:
+  * Probability and Statistics: `S3_MPiS`
+  * Programming Technologies: `S3_TP`
+  * Databases and Information Systems: `S3_BD`
+  * Computer Architecture and Operating Systems: `S3_AKiSO`
