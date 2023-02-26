@@ -1,3 +1,9 @@
 [submodule "S3_BD/lab4/cinema"]
 	path = S3_BD/lab4/cinema
 	url = https://github.com/SpectraL519/cinema.git
+[submodule "S3_TP/lab1/pwr_s3_tp_lab1"]
+	path = S3_TP/lab1/pwr_s3_tp_lab1
+	url = https://github.com/SpectraL519/pwr_s3_tp_lab1.git
+[submodule "S3_TP/lab4/checkers"]
+	path = S3_TP/lab4/checkers
+	url = https://github.com/SpectraL519/checkers.git
