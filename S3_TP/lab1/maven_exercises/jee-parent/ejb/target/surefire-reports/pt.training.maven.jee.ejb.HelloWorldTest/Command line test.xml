@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite tests="1" failures="0" name="Command line test" time="0.024" errors="0">
+  <properties/>
+  <testcase classname="pt.training.maven.jee.ejb.HelloWorldTest" name="testGetText" time="0.004"/>
+</testsuite>
