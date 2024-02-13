@@ -13,3 +13,6 @@
 [submodule "PWR-S3-TP"]
 	path = PWR-S3-TP
 	url = https://github.com/SpectraL519/PWR-S3-TP.git
+[submodule "PWR-S3-BD"]
+	path = PWR-S3-BD
+	url = https://github.com/SpectraL519/PWR-S3-BD.git
