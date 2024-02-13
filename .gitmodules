@@ -10,3 +10,6 @@
 [submodule "PWR-S3-MPiS"]
 	path = PWR-S3-MPiS
 	url = https://github.com/SpectraL519/PWR-S3-MPiS.git
+[submodule "PWR-S3-TP"]
+	path = PWR-S3-TP
+	url = https://github.com/SpectraL519/PWR-S3-TP.git
