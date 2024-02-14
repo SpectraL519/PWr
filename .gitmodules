@@ -28,3 +28,6 @@
 [submodule "PWR-S4-WSI"]
 	path = PWR-S4-WSI
 	url = https://github.com/SpectraL519/PWR-S4-WSI.git
+[submodule "PWR-S4-TS"]
+	path = PWR-S4-TS
+	url = https://github.com/SpectraL519/PWR-S4-TS.git
