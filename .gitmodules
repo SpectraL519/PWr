@@ -19,3 +19,6 @@
 [submodule "PWR-S4-AM"]
 	path = PWR-S4-AM
 	url = https://github.com/SpectraL519/PWR-S4-AM.git
+[submodule "PWR-S4-AOD"]
+	path = PWR-S4-AOD
+	url = https://github.com/SpectraL519/PWR-S4-AOD.git
