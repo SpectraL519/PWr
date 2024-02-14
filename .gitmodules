@@ -22,3 +22,6 @@
 [submodule "PWR-S4-AOD"]
 	path = PWR-S4-AOD
 	url = https://github.com/SpectraL519/PWR-S4-AOD.git
+[submodule "PWR-S4-AiSD"]
+	path = PWR-S4-AiSD
+	url = https://github.com/SpectraL519/PWR-S4-AiSD.git
