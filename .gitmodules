@@ -37,3 +37,6 @@
 [submodule "PWR-S5-ON"]
 	path = PWR-S5-ON
 	url = https://github.com/SpectraL519/PWR-S5-ON.git
+[submodule "PWR-S5-PW"]
+	path = PWR-S5-PW
+	url = https://github.com/SpectraL519/PWR-S5-PW.git
