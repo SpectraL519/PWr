@@ -52,4 +52,9 @@ This repository contains all programs (or links to other repositories) which hav
   * Concurrent programming: [PWR-S5-PW](https://github.com/SpectraL519/PWR-S5-PW)
   * Scientific computing: [PW-S5-ON](https://github.com/SpectraL519/PWR-S5-ON)
   * Formal languages and translation techniques: [PWR-S5-JFTT](https://github.com/SpectraL519/PWR-S5-JFTT)
-  * Team programming: [CPP-AP: Command-line argument parser for C++20](https://github.com/SpectraL519/cpp-ap)
+  * Collegiate programming: [CPP-AP: Command-line argument parser for C++20](https://github.com/SpectraL519/cpp-ap)
+
+<br />
+
+* Semester 6:
+  * Computer security: [PWR-S6-BK](https://github.com/SpectraL519/PWR-S6-BK)
