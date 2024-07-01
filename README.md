@@ -59,4 +59,5 @@ This repository contains all programs (or links to other repositories) which hav
 * Semester 6:
   * Computer security: [PWR-S6-BK](https://github.com/SpectraL519/PWR-S6-BK)
   * Programming languages and paradigmas: [PWR-S6-JPP](https://github.com/SpectraL519/PWR-S6-JPP)
-  * Embedded Systems: [PWR-S6-SW](https://github.com/SpectraL519/PWR-S6-SW)
+  * Embedded systems: [PWR-S6-SW](https://github.com/SpectraL519/PWR-S6-SW)
+  * Theoretical foundations of computer science: [PWR-S6-TPI](https://github.com/SpectraL519/PWR-S6-TPI)
