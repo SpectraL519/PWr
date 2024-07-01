@@ -58,3 +58,6 @@
 [submodule "PWR-S6-TPI"]
 	path = PWR-S6-TPI
 	url = git@github.com:SpectraL519/PWR-S6-TPI.git
+[submodule "PWR-S6-WZA"]
+	path = PWR-S6-WZA
+	url = https://github.com/SpectraL519/PWR-S6-WZA
