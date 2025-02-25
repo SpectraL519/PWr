@@ -62,3 +62,8 @@ This repository contains all programs (or links to other repositories) which hav
   * Embedded systems: [PWR-S6-SW](https://github.com/SpectraL519/PWR-S6-SW)
   * Theoretical foundations of computer science: [PWR-S6-TPI](https://github.com/SpectraL519/PWR-S6-TPI)
   * Selected topics from algebra: [PWR-S6-WZA](https://github.com/SpectraL519/PWR-S6-WZA)
+
+<br />
+
+* Semester 7:
+  * Programming environment: [PWR-S7-SP](https://github.com/SpectraL519/PWR-S7-SP)

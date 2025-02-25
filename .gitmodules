@@ -61,3 +61,6 @@
 [submodule "PWR-S6-WZA"]
 	path = PWR-S6-WZA
 	url = https://github.com/SpectraL519/PWR-S6-WZA
+[submodule "PWR-S7-SP"]
+	path = PWR-S7-SP
+	url = https://github.com/SpectraL519/PWR-S7-SP.git
