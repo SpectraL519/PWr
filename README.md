@@ -1,5 +1,6 @@
 # PWr
-This repository contains all programs (or links to other repositories) which have been developed as university projects
+
+This repository contains all my programs which have been developed as university projects
 
 > University: **Wrocław University of Science and Technology**
 >
@@ -8,9 +9,6 @@ This repository contains all programs (or links to other repositories) which hav
 > Field of study: **Algorythmic Comupter Science**
 
 <br />
-<br />
-
-**Subjects and their corresponding repositories:**
 
 * Semester 1
   * Mathematical Analysis I
@@ -66,5 +64,6 @@ This repository contains all programs (or links to other repositories) which hav
 <br />
 
 * Semester 7:
-  * Programming environment: [PWR-S7-SP](https://github.com/SpectraL519/PWR-S7-SP)
+  * Engineering project: [CPP-GL: General-purpose header-only template graph library for modern C++](https://github.com/SpectraL519/cpp-gl)
   * Diploma seminar: [PWR-S7-SD](https://github.com/SpectraL519/PWR-S7-SD)
+  * Programming environment: [PWR-S7-SP](https://github.com/SpectraL519/PWR-S7-SP)
