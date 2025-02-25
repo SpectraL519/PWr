@@ -64,3 +64,6 @@
 [submodule "PWR-S7-SP"]
 	path = PWR-S7-SP
 	url = https://github.com/SpectraL519/PWR-S7-SP.git
+[submodule "PWR-S7-SD"]
+	path = PWR-S7-SD
+	url = https://github.com/SpectraL519/PWR-S7-SD.git

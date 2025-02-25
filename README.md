@@ -67,3 +67,4 @@ This repository contains all programs (or links to other repositories) which hav
 
 * Semester 7:
   * Programming environment: [PWR-S7-SP](https://github.com/SpectraL519/PWR-S7-SP)
+  * Diploma seminar: [PWR-S7-SD](https://github.com/SpectraL519/PWR-S7-SD)
